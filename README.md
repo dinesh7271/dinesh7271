@@ -50,50 +50,6 @@ I enjoy turning ideas into working projects, participating in hackathons, and co
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ Real-Time Financial Fraud Detection
-
-An ML-based fraud detection system using **XGBoost** with **SMOTE** for class-imbalance handling.
-
-**Tech:** `Python` `XGBoost` `Scikit-learn` `SMOTE` `Joblib`
-
-### 🏥 Smart Health Monitoring System
-
-An AI-powered health-risk monitoring dashboard developed during an **18-hour hackathon**, focused on real-time health insights.
-
-**Tech:** `Python` `AI/ML` `Dashboard`
-
-### 🔐 Cybersecurity Projects
-
-A collection of security-focused projects including:
-
-- 🔑 Password Strength Analyzer
-- 🔎 Vulnerability Scanner
-- 🎣 Phishing Email Detection Model
-- 🔒 Secure Login System
-
-**Tech:** `Python` `Scikit-learn` `Cybersecurity`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh7271&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh7271&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dinesh7271&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
@@ -107,21 +63,5 @@ A collection of security-focused projects including:
 </p>
 
 ---
-
-### 💭 Currently
-
-```text
-☕ Coding
-    ↓
-🧠 Learning DSA
-    ↓
-🤖 Exploring AI/ML
-    ↓
-☁️ Building with Cloud
-    ↓
-🚀 Creating something new
-```
-
-> **"Code. Learn. Build. Repeat. 🚀"**
 
 ⭐ Feel free to explore my repositories and connect with me!
