@@ -13,8 +13,6 @@ I enjoy turning ideas into working projects, participating in hackathons, and co
 - 🎓 Computer Science Engineering Student
 - ☕ Java & DSA enthusiast
 - 🤖 Exploring AI & Machine Learning
-- ☁️ Learning Cloud Computing & AWS
-- 🔐 Interested in Cybersecurity
 - 🏆 Hackathon participant
 - 🌱 Gardening & Anime fan
 - 💡 Always building, learning & experimenting
@@ -76,12 +74,6 @@ A collection of security-focused projects including:
 - 🔒 Secure Login System
 
 **Tech:** `Python` `Scikit-learn` `Cybersecurity`
-
-### 🧩 Entity Resolution — Amazon ML Challenge
-
-Working on large-scale **entity matching and data cleaning**, developing memory-efficient blocking and matching techniques for millions of records.
-
-**Tech:** `Python` `Machine Learning` `Data Matching`
 
 ---
 
